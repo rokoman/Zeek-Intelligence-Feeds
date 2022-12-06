@@ -1,4 +1,6 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
+198.50.242.126	Intel::ADDR	ABUSE-CH	F	THREATFOX
+85.56.236.45	Intel::ADDR	ABUSE-CH	F	THREATFOX
 5.188.86.196	Intel::ADDR	ABUSE-CH	F	THREATFOX
 43.143.237.87	Intel::ADDR	ABUSE-CH	F	THREATFOX
 31.172.83.152	Intel::ADDR	ABUSE-CH	F	THREATFOX
