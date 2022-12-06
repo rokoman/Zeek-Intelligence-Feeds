@@ -21,6 +21,7 @@
 5pj5xki8i2.execute-api.ap-south-1.amazonaws.com	Intel::DOMAIN	CobaltStrike	F	C2
 61c29c85405f0792.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
 7539656bb8ee425c.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
+754xneyq.slt.sched.intlsdcn.com	Intel::DOMAIN	CobaltStrike	F	C2
 93b7-204-44-112-14.jp.ngrok.io	Intel::DOMAIN	CobaltStrike	F	C2
 96dc3607a840b779.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
 97b3807e724b5ab8.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
@@ -54,6 +55,7 @@ ba1cf5a1b0bc2f2d.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
 backend.msndla.com	Intel::DOMAIN	CobaltStrike	F	C2
 base-jscript.com	Intel::DOMAIN	CobaltStrike	F	C2
 base-jscript.com	Intel::DOMAIN	CobaltStrike	F	C2
+bc46l49k.slt.sched.intlscdn.com	Intel::DOMAIN	CobaltStrike	F	C2
 bf015384de8ed729.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
 bid.skhystec.com	Intel::DOMAIN	CobaltStrike	F	C2
 bingobangobongobishbashbosh.xyz	Intel::DOMAIN	CobaltStrike	F	C2
@@ -211,6 +213,7 @@ haecohk.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
 help.webex.com	Intel::DOMAIN	CobaltStrike	F	C2
 hi.welcomebackmysillyson.win	Intel::DOMAIN	CobaltStrike	F	C2
 hk-azure-agoda.azurewebsites.net	Intel::DOMAIN	CobaltStrike	F	C2
+img.bandu-img.tk	Intel::DOMAIN	CobaltStrike	F	C2
 img.bandu.cf	Intel::DOMAIN	CobaltStrike	F	C2
 img.cdn-jqueryjs.com	Intel::DOMAIN	CobaltStrike	F	C2
 imsensors.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -284,7 +287,6 @@ realgislander.tk	Intel::DOMAIN	CobaltStrike	F	C2
 redirector.drwatson.workers.dev	Intel::DOMAIN	CobaltStrike	F	C2
 rest1.bbcinternationalnews.com	Intel::DOMAIN	CobaltStrike	F	C2
 rest2.bbcinternationalnews.com	Intel::DOMAIN	CobaltStrike	F	C2
-reversengeneer.servegame.com	Intel::DOMAIN	CobaltStrike	F	C2
 rngupdatem.buzz	Intel::DOMAIN	CobaltStrike	F	C2
 ronalivereports.com	Intel::DOMAIN	CobaltStrike	F	C2
 routeoffice.msndla.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -297,6 +299,7 @@ securelogonweb.com	Intel::DOMAIN	CobaltStrike	F	C2
 server.forward-operations.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-04d5qlew-1252238657.gz.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-05e9n765-1258477482.bj.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
+service-0sj91cuc-1257589019.hk.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-1kgeq4ma-1253493857.gz.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-1rsx6h9j-1300655506.bj.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -394,7 +397,6 @@ uknow.tellmewhy.lol	Intel::DOMAIN	CobaltStrike	F	C2
 upd.kasperskyupdates.com	Intel::DOMAIN	CobaltStrike	F	C2
 update.aliyunupdate.work	Intel::DOMAIN	CobaltStrike	F	C2
 update.falsh.cf	Intel::DOMAIN	CobaltStrike	F	C2
-update.northcentralus.cloudapp.azure.com	Intel::DOMAIN	CobaltStrike	F	C2
 update.qian-xin.com	Intel::DOMAIN	CobaltStrike	F	C2
 update.updatewps.net	Intel::DOMAIN	CobaltStrike	F	C2
 update.windowspowerr.com	Intel::DOMAIN	CobaltStrike	F	C2
