@@ -123,4 +123,4 @@ Filename | Provider  | Homepage                         | List URL              
 | tor-exit.intel | Tor Project | https://www.torproject.org/ | https://check.torproject.org/exit-addresses | https://www.torproject.org/ |
 
 
-Mon Dec  5 23:11:54 UTC 2022
+Tue Dec  6 00:12:03 UTC 2022
