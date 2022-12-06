@@ -821,6 +821,7 @@
 208.123.119.121	Intel::ADDR	Cobaltstrike	F	C2
 208.67.105.87	Intel::ADDR	Cobaltstrike	F	C2
 208.76.221.57	Intel::ADDR	Cobaltstrike	F	C2
+208.87.129.112	Intel::ADDR	Cobaltstrike	F	C2
 209.126.119.186	Intel::ADDR	Cobaltstrike	F	C2
 209.141.41.151	Intel::ADDR	Cobaltstrike	F	C2
 209.141.43.107	Intel::ADDR	Cobaltstrike	F	C2
@@ -902,7 +903,6 @@
 34.81.97.209	Intel::ADDR	Cobaltstrike	F	C2
 34.91.186.44	Intel::ADDR	Cobaltstrike	F	C2
 35.156.103.178	Intel::ADDR	Cobaltstrike	F	C2
-35.158.110.230	Intel::ADDR	Cobaltstrike	F	C2
 35.220.227.124	Intel::ADDR	Cobaltstrike	F	C2
 35.73.221.22	Intel::ADDR	Cobaltstrike	F	C2
 35.75.235.89	Intel::ADDR	Cobaltstrike	F	C2
@@ -1266,6 +1266,7 @@
 72.10.160.164	Intel::ADDR	Cobaltstrike	F	C2
 72.10.160.166	Intel::ADDR	Cobaltstrike	F	C2
 72.14.178.145	Intel::ADDR	Cobaltstrike	F	C2
+74.208.208.195	Intel::ADDR	Cobaltstrike	F	C2
 74.63.223.248	Intel::ADDR	Cobaltstrike	F	C2
 77.73.131.173	Intel::ADDR	Cobaltstrike	F	C2
 77.73.131.6	Intel::ADDR	Cobaltstrike	F	C2
