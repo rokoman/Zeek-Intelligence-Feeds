@@ -24091,6 +24091,8 @@ zx.serviceupdatter.com	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
 zx.servicewikii.com	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
 zx.sibalsakie.com	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
 zx.tiancaii.com	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
+934520807e3f8070faaf77a753b11e824bae37bd	Intel::FILE_HASH	CPS-CTI	F	ISAC
+blicorp.com	Intel::DOMAIN	CPS-CTI	F	ISAC
 zx.vaults.jp	Intel::DOMAIN	CPS-CTI	F	CIT0DAY
 zx.voiddas.com	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
 zylux.co.nz	Intel::DOMAIN	CPS-CTI	F	CIT0DAY
@@ -24100,6 +24102,8 @@ zzandol.net	Intel::DOMAIN	CPS-CTI	F	CIT0DAY
 zzrbikes.com	Intel::DOMAIN	CPS-CTI	F	CIT0DAY
 rp.mockplus.com	Intel::DOMAIN	CPS-CTI	F	Phishing
 gmqil.online	Intel::DOMAIN	CPS-CTI	F	Phishing
+heladosyomyom.com	Intel::DOMAIN	CPS-CTI	F	ISAC
+e7ff155421c7a82020a63fa676ed0c72	Intel::FILE_HASH	CPS-CTI	F	ISAC
 lanecksencita.gq	Intel::DOMAIN	CPS-CTI	F	Phishing
 appdaptsites.co.za	Intel::DOMAIN	CPS-CTI	F	Phishing
 techsmashwru.ru	Intel::DOMAIN	CPS-CTI	F	ISAC
