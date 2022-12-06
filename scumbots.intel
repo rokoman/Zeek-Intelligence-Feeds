@@ -190,20 +190,6 @@
 191.252.102.98	Intel::ADDR	ScumBots	F	ScumBots
 191.53.163.15	Intel::ADDR	ScumBots	F	ScumBots
 192.0.2.132	Intel::ADDR	ScumBots	F	ScumBots
-192.100.0.17	Intel::ADDR	ScumBots	F	ScumBots
-192.16.0.12	Intel::ADDR	ScumBots	F	ScumBots
-192.168.1.100	Intel::ADDR	ScumBots	F	ScumBots
-192.168.1.19	Intel::ADDR	ScumBots	F	ScumBots
-192.168.1.238	Intel::ADDR	ScumBots	F	ScumBots
-192.168.1.5	Intel::ADDR	ScumBots	F	ScumBots
-192.168.1.73	Intel::ADDR	ScumBots	F	ScumBots
-192.168.100.20	Intel::ADDR	ScumBots	F	ScumBots
-192.168.100.5	Intel::ADDR	ScumBots	F	ScumBots
-192.168.18.18	Intel::ADDR	ScumBots	F	ScumBots
-192.168.40.100	Intel::ADDR	ScumBots	F	ScumBots
-192.168.6.105	Intel::ADDR	ScumBots	F	ScumBots
-192.227.158.120	Intel::ADDR	ScumBots	F	ScumBots
-192.46.168.101	Intel::ADDR	ScumBots	F	ScumBots
 193.109.85.11	Intel::ADDR	ScumBots	F	ScumBots
 193.161.193.99	Intel::ADDR	ScumBots	F	ScumBots
 193.168.1.3	Intel::ADDR	ScumBots	F	ScumBots
@@ -449,6 +435,7 @@
 95.70.134.40	Intel::ADDR	ScumBots	F	ScumBots
 96.8.121.101	Intel::ADDR	ScumBots	F	ScumBots
 99.79.101.225	Intel::ADDR	ScumBots	F	ScumBots
+sa.ngrok.io	Intel::DOMAIN	ScumBots	F	ScumBots
 0007ef12afdbf3575d363dd9c17328f6b8581c932f7948d6c508043c68f4d80a	Intel::FILE_HASH	ScumBots	F	ScumBots
 000e087c5342d020559c3f18f9d60f8ac434b8979e3ed0de165943e2d05ecadd	Intel::FILE_HASH	ScumBots	F	ScumBots
 0012303bbcfa1d83fc655c54c28ffe2cd041504f1ab8ae704dc0614f2b2a07ba	Intel::FILE_HASH	ScumBots	F	ScumBots
@@ -3428,4 +3415,7 @@ ffd87a112c4c5e9dd4cf067802be5391d15b8f913f9ca458ff3c98d889597781	Intel::FILE_HAS
 ffe6a20edd01ba62891554ff12ce6d6008098e5d5ad58f4adef8b803ba97a619	Intel::FILE_HASH	ScumBots	F	ScumBots
 ffe8dbc4f815fe713c790a19b5122c79d1de9c817f10edf7d86ca297175ce439	Intel::FILE_HASH	ScumBots	F	ScumBots
 ffe9dd829145b86a97ae01d98e6960c1a6621f3ac77d7fca62e17411af2158f0	Intel::FILE_HASH	ScumBots	F	ScumBots
+d0faf8b5efc3607b63be896bf45b2f6c8681f9d68b92cb16e80d427c0a7f64e9	Intel::FILE_HASH	ScumBots	F	ScumBots
+f4ddd638a56ab3607b2ecbc00fe2130c0ece91b6e1d5c816b60ae9038ff217ce	Intel::FILE_HASH	ScumBots	F	ScumBots
+e8f950ec14b94c586c66866e4096789c7c5f42dfbfcf7e5ee37d82fa984edd04	Intel::FILE_HASH	ScumBots	F	ScumBots
 fffb7d1494000fb467a4bebebbbaac5b8d8503cd1f01919623f554787ddcc820	Intel::FILE_HASH	ScumBots	F	ScumBots
