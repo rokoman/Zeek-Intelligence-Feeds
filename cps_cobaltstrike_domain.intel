@@ -41,9 +41,11 @@ america.azurewebsites.net	Intel::DOMAIN	CobaltStrike	F	C2
 americanfox.win	Intel::DOMAIN	CobaltStrike	F	C2
 ams-prd-cob.nl	Intel::DOMAIN	CobaltStrike	F	C2
 analytics.msftcdn.com	Intel::DOMAIN	CobaltStrike	F	C2
+antliveplay.alicdn.com	Intel::DOMAIN	CobaltStrike	F	C2
 api.0nedriveup.com	Intel::DOMAIN	CobaltStrike	F	C2
 api.map.ahrtv.cn	Intel::DOMAIN	CobaltStrike	F	C2
 api.usa-cia.com	Intel::DOMAIN	CobaltStrike	F	C2
+apt007.microsoft.com	Intel::DOMAIN	CobaltStrike	F	C2
 as.stakcl.com	Intel::DOMAIN	CobaltStrike	F	C2
 as.svhostt.com	Intel::DOMAIN	CobaltStrike	F	C2
 asismdnu.asisdns.space	Intel::DOMAIN	CobaltStrike	F	C2
@@ -82,6 +84,7 @@ cdn.fuckscstc.cf	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.websense.com	Intel::DOMAIN	CobaltStrike	F	C2
 cdn2.whereismyip.cf	Intel::DOMAIN	CobaltStrike	F	C2
 cegusiju.com	Intel::DOMAIN	CobaltStrike	F	C2
+certindia.cf	Intel::DOMAIN	CobaltStrike	F	C2
 cf.nio-china.ml	Intel::DOMAIN	CobaltStrike	F	C2
 charismaticilok.com	Intel::DOMAIN	CobaltStrike	F	C2
 childhealthresources.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -156,13 +159,13 @@ danger.kasperslkyupdates.com	Intel::DOMAIN	CobaltStrike	F	C2
 data.mlcro50ft.com	Intel::DOMAIN	CobaltStrike	F	C2
 dchu2u.com	Intel::DOMAIN	CobaltStrike	F	C2
 dcuj1gece5t28.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
+defend.rapidfinact.com	Intel::DOMAIN	CobaltStrike	F	C2
 desktoputilityservice.org	Intel::DOMAIN	CobaltStrike	F	C2
 dev.msndla.com	Intel::DOMAIN	CobaltStrike	F	C2
 dg063sxephvgi.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 didgwf4758vpk.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 disinobaw.com	Intel::DOMAIN	CobaltStrike	F	C2
 dl.kasperskyupdates.com	Intel::DOMAIN	CobaltStrike	F	C2
-dl.kip9.co	Intel::DOMAIN	CobaltStrike	F	C2
 dmpoz6fc4vlq5.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 dns.adspay.io	Intel::DOMAIN	CobaltStrike	F	C2
 dns17.codeaddon.net	Intel::DOMAIN	CobaltStrike	F	C2
@@ -186,7 +189,6 @@ esfxe.com	Intel::DOMAIN	CobaltStrike	F	C2
 esoftwareupdates.com	Intel::DOMAIN	CobaltStrike	F	C2
 evilredteamthings.com	Intel::DOMAIN	CobaltStrike	F	C2
 f31cc9433e1b427f.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
-finance.rapidfinact.com	Intel::DOMAIN	CobaltStrike	F	C2
 firmwareupdate.net	Intel::DOMAIN	CobaltStrike	F	C2
 fishhub.ca	Intel::DOMAIN	CobaltStrike	F	C2
 flukengase.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -208,6 +210,7 @@ google-help-center.tk	Intel::DOMAIN	CobaltStrike	F	C2
 google.co.in	Intel::DOMAIN	CobaltStrike	F	C2
 google.google-updatas.workers.dev	Intel::DOMAIN	CobaltStrike	F	C2
 google.ru	Intel::DOMAIN	CobaltStrike	F	C2
+googlecloudsvcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 googlecontentuser.com	Intel::DOMAIN	CobaltStrike	F	C2
 gov.twittter.info	Intel::DOMAIN	CobaltStrike	F	C2
 gupd.g00gle.ga	Intel::DOMAIN	CobaltStrike	F	C2
@@ -253,6 +256,7 @@ msndla.com	Intel::DOMAIN	CobaltStrike	F	C2
 mtaxservice.com	Intel::DOMAIN	CobaltStrike	F	C2
 mva.microsoft.com	Intel::DOMAIN	CobaltStrike	F	C2
 mx.weixin3.bond	Intel::DOMAIN	CobaltStrike	F	C2
+nb.trxc2.xyz	Intel::DOMAIN	CobaltStrike	F	C2
 new.hik.icu	Intel::DOMAIN	CobaltStrike	F	C2
 nginx.web-framework-kesh.1398747042169696.cn-shanghai.fc.devsapp.net	Intel::DOMAIN	CobaltStrike	F	C2
 nihaosao.freemyip.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -301,6 +305,7 @@ sans.nyaasu.top	Intel::DOMAIN	CobaltStrike	F	C2
 secure.followfornew.com	Intel::DOMAIN	CobaltStrike	F	C2
 secure.generalimaps.com	Intel::DOMAIN	CobaltStrike	F	C2
 securelogonweb.com	Intel::DOMAIN	CobaltStrike	F	C2
+sercieupdn.host	Intel::DOMAIN	CobaltStrike	F	C2
 server.forward-operations.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-04d5qlew-1252238657.gz.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-05e9n765-1258477482.bj.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
