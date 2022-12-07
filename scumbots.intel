@@ -438,6 +438,9 @@
 95.90.54.183	Intel::ADDR	ScumBots	F	ScumBots
 sa.ngrok.io	Intel::DOMAIN	ScumBots	F	ScumBots
 95.90.54.183	Intel::ADDR	ScumBots	F	ScumBots
+209.165.201.17	Intel::ADDR	ScumBots	F	ScumBots
+d1644309bcecc22c100bd188d2b8ae6072d89113378c90e131672de97c8e49cc 	Intel::FILE_HASH	ScumBots	F	ScumBots
+341f194d9ccc811fcc3995eee085f66e299a17aa2272b8a91b3093de281bfac9	Intel::FULE_HASH	ScumBots	F	ScumBotss
 e69cc36ecb2e75c8f9b969eb6f3cf37a371e33375f1b466b47e0e261340a9367	Intel::FILE_HASH	ScumBots	F	ScumBots
 68493c8e28d56058cc5fb345c037f37ba97a738f15e78e3fe8e94749cb809d40	Intel::FILE_HASH	ScumBots	F	ScumBots
 0007ef12afdbf3575d363dd9c17328f6b8581c932f7948d6c508043c68f4d80a	Intel::FILE_HASH	ScumBots	F	ScumBots
